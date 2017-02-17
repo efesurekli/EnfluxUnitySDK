@@ -73,14 +73,6 @@ namespace Enflux.SDK.Recording
                 }
                 if (!_isRecording)
                 {
-                    //TODO: Verify directory creation!
-                    if (!File.Exists(Filename))
-                    {
-                        Debug.Log("Creating recording file at: '" + Filename + "'");
-                        using (var fileStream = File.Create(Filename))
-                        {
-                        }
-                    }
                     var error = StartRecording(Filename);
                     if (error != 0)
                     {
