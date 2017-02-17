@@ -57,6 +57,9 @@ This is the Enflux Unity SDK with support for VR, animation recording, and playb
 * If the module is unable to connect, it may have went to sleep. Try turning it back on.
 * If the module is still unable to connect, hard reset the module. Unpair from the module in Windows and reconnect.
 
+### Troubleshooting Guide 
+https://docs.google.com/document/d/1_1er5wxuVvz53wxTvzeSnaUbJ6NVyUM8AZqgQ3K6RxY
+
 &nbsp;
 ## Example Scenes
 ------
