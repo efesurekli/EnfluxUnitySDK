@@ -69,7 +69,7 @@ https://docs.google.com/document/d/1_1er5wxuVvz53wxTvzeSnaUbJ6NVyUM8AZqgQ3K6RxY
 &nbsp;
 ## Example Scenes
 ------
-* These can be found under [Enflux/SDK/Scenes](Assets/Enflux/SDK/Scenes)
+* These can be found under <i>{ProjectFolder}/Assets/Enflux/SDK/Scenes</i>
 
 ### Enflux - Suit Setup
 * This is a scene setup following **Instructions For Setup**
