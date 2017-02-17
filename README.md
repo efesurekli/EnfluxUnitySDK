@@ -1,4 +1,4 @@
-# EnfluxSuitController
+# EnfluxUnitySDK
 This is the Enflux Unity SDK with support for VR, animation recording, and playback.
 
 **The documentation and tutorial is updated, so check back frequently.**
