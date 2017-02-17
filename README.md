@@ -7,7 +7,7 @@ This is the Enflux Unity SDK with support for VR, animation recording, and playb
 ## Unity SDK
 ------
 * Our SDK is built for Unity 5.4.0f3 and newer.
-* Check [releases tab](https://github.com/Enflux/EnfluxSuitController/releases)
+* Check [releases tab](https://github.com/Enflux/EnfluxUnitySDK/releases)
 
 &nbsp;
 ## Instructions For Setup
