@@ -84,14 +84,18 @@ https://docs.google.com/document/d/1_1er5wxuVvz53wxTvzeSnaUbJ6NVyUM8AZqgQ3K6RxY
 &nbsp;
 ## FAQs
 ------
-<b>Q:</b> <i>Can I use different 3D models?</i>
 
-<b>A:</b> Right now, your character must be rigged in the same hierarchy as our provided character with no rotations applied to the limb joints for the `RigMapper` script to work properly. We have successfully tested different rigs/models internally, and it's on our roadmap to add support for other rigs. 
+<b>Can I use different 3D models?</b>
 
+Your character must be rigged in the same hierarchy as our provided character with no rotations applied to the limb joints for the `RigMapper` script to work properly. We have successfully tested different rigs/models internally, and it's on our roadmap to add support for other rigs. 
 
-<b>Q:</b> <i>Can I use multiple suits at once?</i>
+<b>Can I use multiple suits at once?</b>
 
-<b>A:</b> This is not currently supported yet. You're more than free to create a networked experience to use several suits, however. 
+This is not currently supported yet. You're more than free to create a networked experience to use several suits, however. 
+
+<b>Does your suit do positional tracking? Can I track my fingers too? </ib>
+
+We include support for positional tracking via the Oculus Rift headset or HTC Vive headset as part of our SDK. For other tracking solutions, you will need to integrate with that platform's SDK. 
 
 &nbsp;
 ## License And Copyright
