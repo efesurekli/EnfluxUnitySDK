@@ -44,16 +44,19 @@ This is the Enflux Unity SDK with support for VR, animation recording, and playb
 &nbsp;
 ## Connection Instructions And Issues
 ------
-1. Turn on the Enflux modules you plan to use. In Windows Bluetooth Manager, click "Pair" on all Enflux modules you wish to use.
-2. Open the Unity project.
-3. On an `EnfluxManager` component, there will be buttons to connect and calibrate the clothing.
+1. Press the button to turn on the Enflux device. The LED will blink blue.
+![alt tag](https://lh3.googleusercontent.com/7fyaI8H2huVZDNU6g9ZGWjMeXktOPMyo-hXusxTRE4KXo6N4IEMDrbw3-vID1ZrH3Z5cLrNiXjhr68g=w3440-h1310)
+2. In Windows Bluetooth Manager, click "Pair" on all Enflux devices you wish to use.
+![alt tag](https://lh3.googleusercontent.com/YqXDEeizpZ80MAl4BLcm6cjD9A7rRMa1a0fS47MF1eOi-T6hV8_-8oWlop9h-2ulf7pU2eQrE3MlrRI=w3440-h1310)
+3. Open the Unity project.
+4. On an `EnfluxManager` component, there will be buttons to connect and calibrate the device.
 ![alt tag](https://lh6.googleusercontent.com/_Q0r-b9FlYv3qvsUrDYpqsuQ64z0cT5d7dbE1stujSbhqAVkHxo90Rp5WvmiYwPnwl_ipUHJAJG8fSw=w3440-h1310)
-4. If this first time using the suit or in a different environment, click Calibrate first. This process will optimize the suit for the environment.
+5. If this first time using the suit or in a different environment, click Calibrate first. This process will optimize the device for the environment.
   * [Calibration Tutorial](https://youtu.be/HKrl9DVYESI)
-6. After calibrating (if neccessary) and connecting, the module will initialize for around 2 seconds. **USER NEEDS TO BE STANDING STILL FOR MOST ACCURACY.**
-6. After initiaization has completed, the suit should begin animating.
-7. If the wants to start the suit facing another direction, face that direction, assume a straight posture, and click Reset Orientation.
-8. When done using the suit, click Disconnect.
+6. After calibrating (if neccessary) and connecting, the device will initialize for around 2 seconds. **USER NEEDS TO BE STANDING STILL FOR MOST ACCURACY.**
+7. After initiaization has completed, the device should begin animating.
+8. If the wants to start the device facing another direction, face that direction, assume a straight posture, and click Reset Orientation.
+9. When finished, click Disconnect.
 
 &nbsp;
 * If the device is unable to connect and shows "Paired" in Windows Device Manager, it may have went to sleep to conserve battery. Try turning it back on.
